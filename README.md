@@ -42,7 +42,7 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2003** | Launched **ValenciaNight**, a social network in Valencia. Reached **10,000 registered users**. |
 | **2009** | Launched **DimeQuien**, a web analytics SaaS for Tuenti. Got **60K registered users in one week**. It lived for one month, until Tuenti fixed the security flaw that made it possible. |
 | **2010** | Launched **iPadizate**, the world's first Spanish-language iPad blog. Reached **2.5M visits/month** and was sold to **Difoosion** in 2015. |
-| **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online". |
+| **2010** | Launched **Cantanding**, the world's first online karaoke built on the **YouTube API**. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online", until it was removed from Google's index in 2015. |
 | **2013** | Founded **[PICKASO](https://pickaso.com)**, the first native ASO & app marketing agency in Spain and Europe. |
 | **2013** | Started publishing my own **Android & iOS apps**: **150+ apps** published. |
 | **2016** | 💍 Married **Miriam Peláez**. |
