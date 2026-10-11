@@ -43,6 +43,7 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2009** | Launched **DimeQuien**, a web analytics SaaS for Tuenti. Got **60K registered users in one week**. It lived for one month, until Tuenti fixed the security flaw that made it possible. |
 | **2010** | Launched **iPadizate**, the world's first Spanish-language iPad blog. Reached **2.5M visits/month** and was sold to **Difoosion** in 2015. |
 | **2010** | Launched **Cantanding**, the world's first online karaoke built on the **YouTube API**. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online", until it was removed from Google's index in 2015. |
+| **2011** | 🎤 Started speaking at **SEO & growth conferences**. |
 | **2013** | Founded **[PICKASO](https://pickaso.com)**, the first native ASO & app marketing agency in Spain and Europe. |
 | **2013** | Started publishing my own **Android & iOS apps**: **150+ apps** published. |
 | **2016** | 💍 Married **Miriam Peláez**. |
@@ -52,5 +53,11 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2025** | 👶 Our second son, **App2**, was born. |
 
 Along the way I've also built **micro-SaaS products, Chrome extensions, mobile games, websites monetized with AdSense and affiliate programs** and a long list of other digital products. Some of them I built, grew and **sold**.
+
+### 🎤 Speaking & teaching
+
+- **Speaker since 2011** at the main SEO and growth events and conferences in Spain, plus talks in **Berlin** and **London**.
+- **Lecturer** at business schools, universities and master's programs.
+- Guest at webinars and online events organized by **Apple, Google, Huawei, Samsung** and other big tech companies.
 
 <p align="center"><sub>Husband, dad, entrepreneur. Barcelona 🇪🇸</sub></p>
