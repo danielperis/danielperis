@@ -33,6 +33,7 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | Year | |
 |:---:|---|
 | **1983** | 👶 Born. Grew up surrounded by **computers and video game consoles**. |
+| **1989** | Got my first computer: a **Commodore Amiga 500**. It was magic. ✨ |
 | **1991** | Learned to program in **BASIC**. |
 | **1995** | Got on the Internet for the first time and built my first web page with a plain text editor. |
 | **1995** | Built my own **HTML editor** with Visual Basic. |
