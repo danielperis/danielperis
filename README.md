@@ -1,3 +1,18 @@
+<pre align="center">
+██████╗  █████╗ ███╗   ██╗██╗███████╗██╗     
+██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║     
+██║  ██║███████║██╔██╗ ██║██║█████╗  ██║     
+██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║     
+██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
+     ██████╗ ███████╗██████╗ ██╗███████╗     
+     ██╔══██╗██╔════╝██╔══██╗██║██╔════╝     
+     ██████╔╝█████╗  ██████╔╝██║███████╗     
+     ██╔═══╝ ██╔══╝  ██╔══██╗██║╚════██║     
+     ██║     ███████╗██║  ██║██║███████║     
+     ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝     
+</pre>
+
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
 <p align="center">
@@ -8,6 +23,7 @@
 <p align="center">
   <a href="https://danielperis.com"><img src="https://img.shields.io/badge/danielperis.com-0F172A?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
   <a href="https://llmpulse.ai"><img src="https://img.shields.io/badge/LLM%20Pulse-13C1AC?style=for-the-badge&logo=sparkfun&logoColor=white" alt="LLM Pulse"></a>
+  <a href="https://www.linkedin.com/in/danielperis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/danielperis"><img src="https://img.shields.io/badge/@danielperis-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
@@ -37,7 +53,7 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online". |
 | **2013** | Founded **[PICKASO](https://pickaso.com)**, the first native ASO & app marketing agency in Spain and Europe. |
 | **2013** | Started publishing my own **Android & iOS apps**: **150+ apps** published. |
-| **2016** | 💍 Married **Miriam Pelaez**. |
+| **2016** | 💍 Married **Miriam Peláez**. |
 | **2017** | Launched **TheTool**, the first performance-based ASO tool. Sold to **AppRadar** in 2021. |
 | **2023** | 👶 Our first son, **App1**, was born. |
 | **2025** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
