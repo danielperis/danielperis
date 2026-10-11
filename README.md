@@ -37,7 +37,7 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online". |
 | **2013** | Founded **PICKASO**, the first native ASO & app marketing agency in Spain and Europe. |
 | **2013** | Started publishing my own **Android & iOS apps**: **150+ apps** published. |
-| **2017** | Launched **TheTool**, the first ASO SaaS connected to the Apple and Google developer consoles. |
+| **2017** | Launched **TheTool**, the first performance-based ASO tool. Sold to **AppRadar** in 2021. |
 | **Now** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
 
 <p align="center"><sub>Husband, dad, entrepreneur. Barcelona 🇪🇸</sub></p>
