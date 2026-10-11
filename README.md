@@ -49,6 +49,6 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2025** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
 | **2025** | 👶 Our second son, **App2**, was born. |
 
-Along the way I've also built **micro-SaaS products, Chrome extensions, mobile games** and a long list of other digital products.
+Along the way I've also built **micro-SaaS products, Chrome extensions, mobile games, websites monetized with AdSense and affiliate programs** and a long list of other digital products. Some of them I built, grew and **sold**.
 
 <p align="center"><sub>Husband, dad, entrepreneur. Barcelona 🇪🇸</sub></p>
