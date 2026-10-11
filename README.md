@@ -56,7 +56,7 @@ Along the way I've also built **micro-SaaS products, Chrome extensions, mobile g
 
 ### 🎤 Speaking & teaching
 
-- **Speaker since 2011** at the main SEO and growth events and conferences in Spain, plus talks in **Berlin** and **London**.
+- **Speaker since 2011** at the main SEO, ASO and growth events and conferences in Spain, plus talks in **Berlin** and **London**.
 - **Lecturer** at business schools, universities and master's programs.
 - Guest at webinars and online events organized by **Apple, Google, Huawei, Samsung** and other big tech companies.
 
