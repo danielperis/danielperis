@@ -33,11 +33,13 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **1995** | Got on the Internet for the first time and built my first web page with a plain text editor. |
 | **1995** | Built my own **HTML editor** with Visual Basic. |
 | **2009** | Launched **DimeQuien**, a web analytics SaaS for Tuenti. Got **60K registered users in one week**. It lived for one month, until Tuenti fixed the security flaw that made it possible. |
-| **2010** | Launched **iPadizate**, the world's first Spanish-language iPad blog. Reached **2.5M visits/month** and was sold in 2015. |
+| **2010** | Launched **iPadizate**, the world's first Spanish-language iPad blog. Reached **2.5M visits/month** and was sold to **Difoosion** in 2015. |
 | **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online". |
 | **2013** | Founded **[PICKASO](https://pickaso.com)**, the first native ASO & app marketing agency in Spain and Europe. |
 | **2013** | Started publishing my own **Android & iOS apps**: **150+ apps** published. |
 | **2017** | Launched **TheTool**, the first performance-based ASO tool. Sold to **AppRadar** in 2021. |
 | **Now** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
+
+Along the way I've also built **micro-SaaS products, Chrome extensions, mobile games** and a long list of other digital products.
 
 <p align="center"><sub>Husband, dad, entrepreneur. Barcelona 🇪🇸</sub></p>
