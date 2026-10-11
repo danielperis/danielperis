@@ -37,8 +37,11 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online". |
 | **2013** | Founded **[PICKASO](https://pickaso.com)**, the first native ASO & app marketing agency in Spain and Europe. |
 | **2013** | Started publishing my own **Android & iOS apps**: **150+ apps** published. |
+| **2016** | 💍 Married **Miriam Pelaez**. |
 | **2017** | Launched **TheTool**, the first performance-based ASO tool. Sold to **AppRadar** in 2021. |
-| **Now** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
+| **2023** | 👶 Our first son, **App1**, was born. |
+| **2025** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
+| **2025** | 👶 Our second son, **App2**, was born. |
 
 Along the way I've also built **micro-SaaS products, Chrome extensions, mobile games** and a long list of other digital products.
 
