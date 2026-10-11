@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Building things on the Internet since 1995.</b><br>
-  Entrepreneur in Barcelona, now focused on <b>AI Search</b>.
+  Entrepreneur in Barcelona and <b>100% self-taught</b>, now focused on <b>AI Search</b>.
 </p>
 
 <p align="center">
@@ -32,6 +32,7 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 
 | Year | |
 |:---:|---|
+| **1983** | 👶 Born. Grew up surrounded by **computers and video game consoles**. |
 | **1991** | Learned to program in **BASIC**. |
 | **1995** | Got on the Internet for the first time and built my first web page with a plain text editor. |
 | **1995** | Built my own **HTML editor** with Visual Basic. |
