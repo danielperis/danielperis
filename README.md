@@ -35,6 +35,9 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 | **1991** | Learned to program in **BASIC**. |
 | **1995** | Got on the Internet for the first time and built my first web page with a plain text editor. |
 | **1995** | Built my own **HTML editor** with Visual Basic. |
+| **1997–2000** | Developed several **video games** with DIV Games Studio and DIV 2. |
+| **1998** | Built a **LAN chat** for my computer science class, in Delphi (Pascal). |
+| **2003** | Launched **ValenciaNight**, a social network in Valencia. Reached **10,000 registered users**. |
 | **2009** | Launched **DimeQuien**, a web analytics SaaS for Tuenti. Got **60K registered users in one week**. It lived for one month, until Tuenti fixed the security flaw that made it possible. |
 | **2010** | Launched **iPadizate**, the world's first Spanish-language iPad blog. Reached **2.5M visits/month** and was sold to **Difoosion** in 2015. |
 | **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. Reached **1M visits/month** and ranked **#1 on Google US** for "karaoke" and "karaoke online". |
