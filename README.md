@@ -27,10 +27,15 @@ Search is changing faster than it has in 25 years, and I want brands to see what
 
 ### 🧭 A short timeline
 
-```
-1995  Started building things on the Internet.
- ...  30+ years of products and companies.
-2026  AI Search & LLM Pulse.
-```
+| Year | |
+|:---:|---|
+| **1991** | Learned to program in **BASIC**. |
+| **1995** | Built my own **HTML editor** with Visual Basic. |
+| **2009** | Launched **DimeQuien**, a web analytics SaaS for Tuenti. |
+| **2010** | Launched **iPadizate**, the world's first Spanish-language iPad blog. |
+| **2010** | Launched **Cantanding**, the world's first online karaoke built on YouTube. |
+| **2013** | Founded **PICKASO**, the first native ASO & app marketing agency in Spain and Europe. |
+| **2017** | Launched **TheTool**, the first ASO SaaS connected to the Apple and Google developer consoles. |
+| **Now** | AI Search & **[LLM Pulse](https://llmpulse.ai)**. |
 
 <p align="center"><sub>Husband, dad, entrepreneur. Barcelona 🇪🇸</sub></p>
